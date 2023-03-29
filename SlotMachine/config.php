@@ -1,0 +1,4 @@
+<?php
+
+$MIN_BET_AMOUNT = 1;
+$MAX_BET_AMOUNT = 1000;
