@@ -1,8 +1,0 @@
-{
-  "require": {
-    "monolog/monolog": "^2.5.5",
-    "ext-readline": "*",
-    "ext-curl": "*",
-    "guzzlehttp/guzzle": "^7.5"
-  }
-}
