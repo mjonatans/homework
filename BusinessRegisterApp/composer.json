@@ -1,0 +1,17 @@
+{
+    "name": "markuss/ur-app",
+    "autoload": {
+        "psr-4": {
+            "Markuss\\UrApp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Markuss",
+            "email": "mjonatans@inbox.lv"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
