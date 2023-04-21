@@ -1,0 +1,17 @@
+{
+    "name": "markuss/crypto-app",
+    "autoload": {
+        "psr-4": {
+            "Markuss\\CryptoApp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Markuss",
+            "email": "mjonatans@inbox.lv"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
